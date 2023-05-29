@@ -24,5 +24,4 @@ Hint: Leave blank and press enter to list all fish. Just write a % and press ent
 
 The icons in the result list have two number overlays:
 * top right: how often you catched the fish in this subzone.
-* bottom: percentage for this subzone. 
-
+* bottom: percentage for this subzone.
